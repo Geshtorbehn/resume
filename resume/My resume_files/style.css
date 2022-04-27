@@ -1,0 +1,203 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F5F7FA;
+}
+.main-conteiner{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #ffff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.about-me-profession{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin-bottom: 20px;
+}
+.Lorem-ipsum{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 40px;  
+    width: 400px;  
+}
+.my-name{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 25px;  
+    color: #000  
+}
+/* Main content information right */
+.main-content {
+padding: 100px 90px;
+}
+.main-content-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-bottom: 10px;
+}
+.projects-number{
+
+    padding: 0 0 0 17px;
+}
+.project-item-color{
+color: black;
+font-weight: bold;
+}
+.my-projects-text{
+    color: #595959;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 10px;
+}
+.project-brackets{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+}
+.my-projects-link{
+    color: #595959;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.my-projects{
+    margin-bottom: 50px;
+}
+.about-me {
+margin-bottom: 40px;    
+
+}
+.my-work{
+    margin: 0 0 10px 0;
+}
+.time-work{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin:0 10px 0 0;   
+}
+.work-name{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.work-name-orange{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color:  #FB6D3A;
+}
+.work-duty{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;   
+}
+.my-education{
+    padding-bottom: 40px;
+}
+.Univer{
+    font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+color: #FB6D3A;
+margin-top: 10px;
+}
+.educational-special{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-top: 10px;    
+}
+
+/* left information */
+.Left-information{
+    background-color: #1E2939;
+    width: 370px;
+    padding: 40px 0;
+}
+.contacts{
+margin: 50px 0 0 40px;    
+}
+.Left-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+/* contacts section */
+.contacts-type{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 5px;
+}
+.contacts-link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.5);
+}
+.thech-skills{
+    margin: 50px 0 0 40px;
+
+}
+.orange{
+    padding: 0 0 0 20px
+}    
+.orange-item{
+color: #FB6D3A;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 24px;
+}
+.orange-text{
+color:white;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+}
+.soft-skills{
+    margin: 50px 0 0 40px;
+}    
+.project-link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(0, 0, 0);
+}
